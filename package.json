@@ -1,0 +1,17 @@
+{
+  "name": "mirror-proxy",
+  "version": "1.13.0",
+  "private": true,
+  "description": "Chrome MV3 browser-only HTTP proxy extension (unpacked). Docs in docs/.",
+  "author": {
+    "name": "Andrei B",
+    "email": "jehkinen@gmail.com",
+    "url": "https://andydev.space/"
+  },
+  "homepage": "https://andydev.space/",
+  "scripts": {
+    "icons": "python3 scripts/generate-icons.py",
+    "zip": "bash scripts/pack.sh",
+    "pack": "bash scripts/pack.sh"
+  }
+}
