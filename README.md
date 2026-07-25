@@ -1,10 +1,8 @@
 # Mirror Proxy
 
-Browser-only HTTP proxy switcher for Chrome. Save proxies, name them, switch with one click, and verify exit IP, country, and ping — without touching system VPN or macOS network settings.
+[![Release](https://img.shields.io/github/v/release/jehkinen/space-proxy?label=release)](https://github.com/jehkinen/space-proxy/releases)
 
-**Author:** [Andrei B](https://andydev.space/) · [jehkinen@gmail.com](mailto:jehkinen@gmail.com)  
-**Version:** 1.13.0 · Manifest V3  
-**Privacy:** [andydev.space/mirror-proxy/privacy](https://andydev.space/mirror-proxy/privacy/)
+Browser-only HTTP proxy switcher for Chrome. Save proxies, name them, switch with one click, and verify exit IP, country, and ping — without touching system VPN or macOS network settings.
 
 ---
 
