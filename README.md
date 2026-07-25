@@ -1,6 +1,6 @@
 # Mirror Proxy
 
-[![Release](https://img.shields.io/github/v/release/jehkinen/space-proxy?label=release)](https://github.com/jehkinen/space-proxy/releases)
+[![Release](https://img.shields.io/github/v/release/jehkinen/mirror-proxy?label=release)](https://github.com/jehkinen/mirror-proxy/releases)
 
 Browser-only HTTP proxy switcher for Chrome. Save proxies, name them, switch with one click, and verify exit IP, country, and ping — without touching system VPN or macOS network settings.
 
