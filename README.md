@@ -11,7 +11,7 @@ Browser-only HTTP proxy switcher for Chrome. Save proxies, name them, switch wit
 ### Connected
 
 <p align="center">
-  <img src="assets/screenshot-connected.jpg" alt="Mirror Proxy — connected with proxy list" width="720" />
+  <img src="assets/screenshot-connected-cropped-lr.jpg" alt="Mirror Proxy — connected with proxy list" width="720" />
 </p>
 
 Status chip with flag, name (or IP), and ping. Enable switch and named proxy list.
@@ -19,7 +19,7 @@ Status chip with flag, name (or IP), and ping. Enable switch and named proxy lis
 ### Add proxy
 
 <p align="center">
-  <img src="assets/screenshot-add.jpg" alt="Mirror Proxy — add proxy form" width="720" />
+  <img src="assets/screenshot-add-cropped-lr.jpg" alt="Mirror Proxy — add proxy form" width="720" />
 </p>
 
 Optional name, Line / Fields / Bulk input, Check and Save.
@@ -27,7 +27,7 @@ Optional name, Line / Fields / Bulk input, Check and Save.
 ### Bulk import
 
 <p align="center">
-  <img src="assets/screenshot-bulk.jpg" alt="Mirror Proxy — bulk import" width="720" />
+  <img src="assets/screenshot-bulk-cropped-lr.jpg" alt="Mirror Proxy — bulk import" width="720" />
 </p>
 
 Paste many proxies at once — one per line, optional `Name :: proxy` prefix.
